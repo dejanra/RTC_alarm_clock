@@ -21,7 +21,7 @@
  * GND
  *
  * */
-#include <LiquidCrystal_I2C.h> // https://github.com/kiyoshigawa/LiquidCrystal_I2C
+#include <LiquidCrystal_I2C.h> // https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 #include <Button.h>        //https://github.com/JChristensen/Button
 #include <DS3232RTC.h>        //http://github.com/JChristensen/DS3232RTC
 #include <Streaming.h>        //http://arduiniana.org/libraries/streaming/
