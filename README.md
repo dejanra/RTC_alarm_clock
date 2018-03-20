@@ -1,8 +1,6 @@
 # RTC_alarm_clock
 Arduino RTC Alarm Clock
 
-***********************USE Arduino IDE 1.6.6**************************
-
 * Arduino alarm clock with DS3231 and IC2 16x2 LCD  
  * FEATURES:
  * Display Time 24h format
