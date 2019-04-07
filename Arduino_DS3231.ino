@@ -20,6 +20,8 @@
  * VCC
  * GND
  *
+ * I am not responsible for any damage caused by this code and/or electric scheme!
+ *
  * */
 #include <LiquidCrystal_I2C.h> // https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 #include <Button.h>        //https://github.com/JChristensen/Button
