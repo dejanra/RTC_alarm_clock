@@ -11,3 +11,6 @@ Arduino RTC Alarm Clock
  * DS3231 - Alarm1  
  * Save information of Alarm in EEPROM
  * Debounce buttons 
+ 
+ 
+ I am not responsible for any damage caused by this code and/or electric scheme!
